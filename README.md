@@ -14,7 +14,7 @@ Below is a sample Google Sheet that this script interacts with.
 It shows the sheet that the TTC uses to keep track of all
 TTC-owned Drupal web pages.
 
-![Google Sheet displaying all of the TTC-owned Drupal web pages](Assets/TTC%20Page%20Maintenance%20Google%20Sheet%20Example.png "This is a sample Google Sheet; the TTC's Web Maintenance spreadsheet.")
+![Google Sheet displaying all of the TTC-owned Drupal web pages](assets/TTC%20Page%20Maintenance%20Google%20Sheet%20Example.png "This is a sample Google Sheet; the TTC's Web Maintenance spreadsheet.")
 
 ## Background
 
