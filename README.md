@@ -27,4 +27,4 @@ This script was written in the Spring of 2017 by one of the former TTC Tech Team
 My goal with this project is to use what I had learned from creating the [KB Article Expiration Notification Script](https://github.com/mossnoah123/KBArticleExpirationNotification) and apply it to this project. I want to structure this script more so that it is easy to maintain in the future.
 
 ## Future Plans for this Project
-* None at the moment.
+* Dynamically retrieve the frequency periods from the spreadsheet so that the verbage may be changed in the future without breaking the spreadsheet.
