@@ -28,3 +28,4 @@ My goal with this project is to use what I had learned from creating the [KB Art
 
 ## Future Plans for this Project
 * Dynamically retrieve the frequency periods from the spreadsheet so that the verbage may be changed in the future without breaking the spreadsheet.
+* Add a dropdown list in the Maintenance Log sheet for Frequency Periods and verify that the value returned is still a string.
